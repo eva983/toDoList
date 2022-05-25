@@ -1,0 +1,50 @@
+body {
+    background-color: #fff1f4;
+}
+.container{
+    background-color: #f4e4ed;
+    width: 40%;
+    min-width: 450px;
+    position: absolute;
+    min-height: 100px;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+}
+
+h1{
+    color: rgb(182, 126, 126);
+    text-align: center;
+}
+
+.done-checkbox {
+    margin: 0 0.6rem 0 0;
+  }
+.title {
+    font-size: 1.2rem;
+    margin: 0;
+}
+.form-row {
+    margin: 1rem 0 1.6rem;
+}
+
+.alert-dark {
+    color: #1eb0df;
+    background-color: #fff1f4;
+    border-color: #c6c8ca;
+}
+
+.btn {
+background-color: #f4e4ed; 
+margin: 1px;
+border: 1px solid #c6c8ca;
+color:#1eb0df;
+}
+
+.btn:hover {
+    color: #afc2d5;    
+    text-decoration: none;
+}
+
+
